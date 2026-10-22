@@ -4,3 +4,10 @@ __pycache__/
 data/output/
 data/rejected/
 .DS_Store
+warehouse.duckdb
+warehouse.duckdb.wal
+target/
+logs/
+.user.yml
+.gitignore
+requirements.txt
